@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1784896273,
+	"version": 1784918000,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,12 +29,16 @@
 		"images/sprite7-sheet1.png",
 		"images/sprite10-sheet0.png",
 		"images/sprite12-sheet0.png",
+		"images/sprite13-sheet0.png",
+		"images/sprite13-sheet1.png",
 		"media/inst.ogg",
 		"media/roses_inst.ogg",
 		"media/roses_vocal.ogg",
 		"media/milf_inst.ogg",
 		"media/milf_vocal.ogg",
 		"media/freakymenu.ogg",
+		"media/satinpanties_inst.ogg",
+		"media/satinpanties_vocal.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -42,6 +46,7 @@
 		"icon-256.png",
 		"loading-logo.png",
 		"milf_hard.txt",
-		"roses_hard.txt"
+		"roses_hard.txt",
+		"satinpanties_hard.txt"
 	]
 }
